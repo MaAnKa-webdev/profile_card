@@ -7,8 +7,11 @@ inklusive Name, Beruf, Social-Media-Links und Interaktionsbuttons. Das Design wi
 nutzt Boxicons für Icons. Technologien
 
 HTML5: Struktur der Profilkarte
+
 CSS3: Gestaltung und Layout
+
 Boxicons: Icons für soziale Medien und Interaktionsstatistiken
+
 
 Installation & Nutzung
 
