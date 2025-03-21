@@ -4,13 +4,13 @@ README - Profile Card
 
 Dieses Projekt ist eine einfache und stilvolle Profilkarte, die grundlegende Informationen über eine Person enthält, 
 inklusive Name, Beruf, Social-Media-Links und Interaktionsbuttons. Das Design wird mit HTML und CSS realisiert und 
-nutzt Boxicons für Icons. Technologien
+nutzt Boxicons für Icons. 
 
-HTML5: Struktur der Profilkarte
+Verwendete Technologien
 
-CSS3: Gestaltung und Layout
-
-Boxicons: Icons für soziale Medien und Interaktionsstatistiken
+- HTML5: Struktur der Profilkarte
+- CSS3: Gestaltung und Layout
+- Boxicons: Icons für soziale Medien und Interaktionsstatistiken
 
 
 Installation & Nutzung
